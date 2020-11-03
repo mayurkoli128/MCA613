@@ -1,0 +1,40 @@
+/*index  FILE STYLING*/
+.nav-back {
+    background-color: rgb(198, 236, 241);
+    border:silver 1px double;
+    margin-top: 10px;
+}
+.nav-head {
+    margin: auto;
+}
+.box {
+    background-color: silver;
+    padding: 100px;
+    text-align: center;
+    margin:20px;
+    border-radius: 30px;
+}
+.box-btn {
+    visibility: hidden;
+}
+.blog-footer {
+    margin-top: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(255, 123, 0);
+}
+.box:hover {
+    background-color: tomato;
+}
+/*HTML FILE STYLING*/
+.tim {
+    float: left;
+    border: black 2px solid;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
+    font-style: italic;
+}
+.info {
+    margin: 20px;
+}
